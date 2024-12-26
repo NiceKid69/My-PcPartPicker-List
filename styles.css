@@ -41,3 +41,23 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+#total {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
